@@ -13,7 +13,7 @@ The preprint is located at https://www.biorxiv.org/content/10.64898/2026.10.02.7
 
 ```r
 # Download the function
-source("https://raw.githubusercontent.com/<your-user>/mutation-vaf-weights/main/Data examples code.R")
+source("Data examples code.R")
 
 # y: group (0/1), x: mutation (0/1), vaf: variant allele frequency
 
